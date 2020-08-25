@@ -1,4 +1,4 @@
-# DSN_ExcelllentStore_Challenge
+# DSN_ExcellentStore_Challenge
 This contains notebook for the pre-Bootcamp Hackathon organised by Data Science Nigeria (DSN), hosted by Zindi (link to hackathon: https://zindi.africa/hackathons/dsn-pre-bootcamp-hackathon-the-excellent-store-challenge). The notebook contains three models (Catboost, Xgboost and lightgbm), and a weighted average of the three models.
 Catboost achieved the best performance in the LeaderBoard than the other models.
 
