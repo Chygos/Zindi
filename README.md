@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Zindi
 =======
 # DSN_ExcellentStore_Challenge
@@ -24,4 +24,3 @@ To build a predictive model and find out the profit returns on each product at a
 Root mean squared error (RMSE)
 ###### LB Position: 
 8th, with 2382.xxx score.
->>>>>>> ExcellentStore/master
